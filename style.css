@@ -16,3 +16,10 @@ h3{
 .fontmediu{
     font-size: 23px !important;
 }
+@media (max-width: 700px)
+/*TELEFON*/
+    {
+    h1 {
+        font-size: 15px !important;
+    }
+    }
